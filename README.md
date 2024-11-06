@@ -3,7 +3,7 @@ Aspiring AI & Software Engineer
 
 🌱 Throughout my experiences as a full-stack developer, web developer, and lead researcher, I’ve consistently sought out projects that challenge me to create innovative, user-centered solutions.
 
-📜 I did a Bachelor's in Computer and Communications Engineering at the American University of Beirut which is ranked number two in the Middle East
+📜 I am a senior pursuing a Bachelor's in Computer and Communications Engineering at the American University of Beirut which is ranked number two in the Middle East
 
 ⚡ In my free time, I learn new skills on Coursera and Datacamp 
 
