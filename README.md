@@ -42,7 +42,6 @@ Aspiring AI & Software Engineer
 
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pl_Sql_Logo.svg" alt="PL/SQL" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="SpringBoot" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
