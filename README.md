@@ -1,11 +1,7 @@
 ## 👩‍💻About Me
-Aspiring AI & Software Engineer
+AI & Software Engineer
 
-🌱 Throughout my experiences as a full-stack developer, web developer, and lead researcher, I’ve consistently sought out projects that challenge me to create innovative, user-centered solutions.
-
-📜 I am a senior pursuing a Bachelor's in Computer and Communications Engineering at the American University of Beirut which is ranked number two in the Middle East
-
-⚡ In my free time, I learn new skills on Coursera and Datacamp 
+🌱 AI Software engineer focused on designing and delivering AI solutions for enterprise clients. I bring full-stack depth — Angular, .NET, Spring Boot — alongside applied AI expertise in LLMs, LangChain, RAG, and multi-agent systems, working end-to-end from architecture to deployment. I thrive at the intersection of engineering and business, translating complex requirements into systems that work.
 
 ## :open_file_folder:My Skills
 - **Programming Languages:** Python, Java, JavaScript, C++, C, PHP, HTML, CSS, Git, Kotlin, Angular, Node.JS, Matlab, LaTeX
